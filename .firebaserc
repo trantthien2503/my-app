@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "myapp-d46c3": {
+      "hosting": {
+        "my-app": [
+          "myapp-d46c3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "myapp-d46c3"
+  }
+}
